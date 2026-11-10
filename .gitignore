@@ -1,0 +1,13 @@
+# 数据集 Fruits-360 (8.9GB, 远超 GitHub 限制, 不入库; 由 数据集下载.py 下载)
+fruits/
+
+# 脚本生成的大标签文件 (可用 标签文件生成.py / 测试标签文件生成.py 重新生成)
+trainset_lable.json
+testset_lable.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
